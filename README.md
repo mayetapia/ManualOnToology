@@ -44,4 +44,10 @@ A continuación podrás ver las ontologías que tengas en tu repositorio y vario
 
 Las acciones que puedes realizar con cada ícono son las siguientes:
 
-# ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon1.png) 
+| Ícono | Acción |
+| ---------- | ---------- |
+| ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon1.png)   | Ir a tu repositorio en Github   |
+| ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon2.png)   | Obtener la configuración de tus ontologías en este repositorio  |
+| ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon3.png)   | Generar la documentación, diagramas y evaluación de tus ontologías   |
+| ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon5.png)   | Refrescar la previsualiación   |
+| ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon6.png)   | Ir a la previsualiación   |
