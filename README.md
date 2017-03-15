@@ -12,7 +12,7 @@ Para utilizar la herramienta debes contar previamente con una cuenta en [Github]
 
 Lo primero que tienes que hacer es ingresar en [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio, por ejemplo miusuario/mirepositorio, y presionar el botón "Watch this Repo" para empezar a visualizarlo dentro de la herramienta
 
-![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png =200x)
+![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png width="200")
 
 
 A continuación Github te redireccionará para solicitarte que autorices a OnToology para que tenga acceso a tu repositorio, tendrás que dar click en el botón "Authorize application"
