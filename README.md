@@ -1,12 +1,12 @@
 # Tabla de contenido de la Guía de uso de OnToology
 
 
-1. [Primer paso: registrar un repositorio](#Primer-paso:-registrar-un-repositorio)
+1. [Primer paso: registrar un repositorio](#Registrar-un-repositorio)
 2. [Configuración de repositorio](#)
 3. [Avanzado](#)
 4. [Sugerencia de flujo de trabajo](#)
 
-## Primer paso: registrar un repositorio
+## Registrar un repositorio
 
 Para utilizar la herramienta debes contar previamente con una cuenta en [Github](http://github.com) en la que necesitas un repositorio. Debes fijarte que en tu perfil de Github tienes escrito tu Nombre y que tu correo eléctronico sea de acceso público pues de no serlo OnToology no podrá acceder a tu cuenta.
 
