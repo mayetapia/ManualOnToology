@@ -11,7 +11,9 @@ Lo primero que tienes que hacer es ingresar el nombre de tu repositorio, por eje
 
 A continuación Github te redireccionará para solicitarte que autorices a OnToology para que tenga acceso a tu repositorio, tendrás que dar click en el botón "Authorize application" (Autorizar aplicación)
 
-
+#+BEGIN_HTML
+<img src="(https://github.com/paoespinozarias/ManualOnToology/blob/master/recursos/step2_1.png)" alt="paso2"/>
+#+END_HTML
 
 
 Dentro de tu repositorio de Github se generará una "Pull Request" (Petición de Cambio) en la que tienes que dar click para ingresar a su contenido
