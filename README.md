@@ -44,4 +44,4 @@ A continuación podrás ver las ontologías que tengas en tu repositorio y vario
 
 Las acciones que puedes realizar con cada ícono son las siguientes:
 
-# ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon.png) 
+# ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon1.png) 
