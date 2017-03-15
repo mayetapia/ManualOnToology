@@ -6,7 +6,7 @@ Para utilizar la herramienta debes contar previamente con una cuenta en [Github]
 
 Lo primero que tienes que hacer es ingresar el nombre de tu repositorio, por ejemplo miusuario/mirepositorio, y presionar el botón "Watch Repo" (Ver Repositorio)
 
-# ![](https://github.com/paoespinozarias/ManualOnToology/recursos/step1.png)
+# ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/recursos/step1.png)
 
 
 A continuación Github te redireccionará para solicitarte que autorices a OnToology para que tenga acceso a tu repositorio, tendrás que dar click en el botón "Authorize application" (Autorizar aplicación)
