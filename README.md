@@ -1,8 +1,10 @@
 # Tabla de contenido de la Guía de uso de OnToology
 
 
-1. [Primer paso: registrar un repositorio](#primerpaso)
-2. [Third Example](#third-example)
+1. [Primer paso: registrar un repositorio](#Primer-paso:-registrar-un-repositorio)
+2. [Configuración de repositorio](#)
+3. [Avanzado](#)
+4. [Sugerencia de flujo de trabajo](#)
 
 ## Primer paso: registrar un repositorio
 
