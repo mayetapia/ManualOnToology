@@ -4,7 +4,7 @@
 
 Para utilizar la herramienta debes contar previamente con una cuenta en [Github](http://github.com) en la que necesitas un repositorio. Debes fijarte que en tu perfil de Github tienes escrito tu Nombre y que tu correo eléctronico sea de acceso público pues de no serlo OnToology no podrá acceder a tu cuenta.
 
-Lo primero que tienes que hacer es ingresar el nombre de tu repositorio, por ejemplo miusuario/mirepositorio, y presionar el botón "Watch this Repo" para empezar a visualizarlo dentro de la herramienta
+Lo primero que tienes que hacer es ingresar a [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio, por ejemplo miusuario/mirepositorio, y presionar el botón "Watch this Repo" para empezar a visualizarlo dentro de la herramienta
 
 # ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png)
 
