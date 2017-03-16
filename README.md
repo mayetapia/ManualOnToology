@@ -13,13 +13,13 @@ Para utilizar [OnToology](http://ontoology.linkeddata.es/) debes contar previame
 Para que OnToology haga un seguimiento de tus ontologías (o mejor dicho los ficheros .ttl, .owl and .rdf que haya en tu repositorio) debes introducir en [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio "usuario/nombreDeRepositorio" y presionar el botón "Watch this Repo" (véase figura a continuacin).
 
 [//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png)"
-<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png" width="850">
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png" width="800">
 
 
 A continuación Github te redireccionará para solicitarte que autorices a OnToology para que tenga acceso a tu repositorio, tendrás que dar click en el botón "Authorize application"
 
 [//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso2.png)"
-<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso2.png" width="850">
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso2.png" width="700" align="center">
 
 
 Si tu repositorio ya contenía algún fichero .owl, .ttl o .rdf OnToology lanzará los procesos de generación de reportes de evaluación, documentación y diagramas y a continuación generará una "Pull request" para incorporar los recursos generados a tu repositorio.
