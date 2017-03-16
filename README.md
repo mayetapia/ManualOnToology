@@ -2,15 +2,15 @@
 
 
 1. [Primer paso: registrar un repositorio](#registrar-un-repositorio)
-2. [Configuración de repositorio](#)
+2. [Funcionamiento de OnToology](#funcionamiento-de-ontoology)
 3. [Administración del entorno de trabajo](#administración-del-entorno-de-trabajo)
 4. [Sugerencia de flujo de trabajo](#)
 
 ## Registrar un repositorio
 
-Para utilizar OnToology debes contar previamente con una cuenta de [Github](http://github.com) en la que posterioremente podrás crear repositorios en los que albergar tu(s) ontología(s). Debes fijarte que en tu perfil de Github tienes escrito tu Nombre y que tu correo eléctronico sea de **acceso público** pues de no serlo OnToology no podrá acceder a tu cuenta.
+Para utilizar [OnToology](http://ontoology.linkeddata.es/) debes contar previamente con una cuenta de [Github](http://github.com) en la que posterioremente podrás crear repositorios en los que albergar tu(s) ontología(s). Debes fijarte que en tu perfil de Github tienes escrito tu Nombre y que tu correo eléctronico sea de **acceso público** pues de no serlo OnToology no podrá acceder a tu cuenta.
 
-Para que OnToology haga un seguimiento de tus ontologías (o mejor dicho los ficheros .ttl, .owl and .rdf que haya en tu repositorio) debe introducir en [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio "usuario/nombreDeRepositorio" y presionar el botón "Watch this Repo" (véase figura a continuacin).
+Para que OnToology haga un seguimiento de tus ontologías (o mejor dicho los ficheros .ttl, .owl and .rdf que haya en tu repositorio) debes introducir en [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio "usuario/nombreDeRepositorio" y presionar el botón "Watch this Repo" (véase figura a continuacin).
 
 ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png)
 
@@ -18,6 +18,12 @@ Para que OnToology haga un seguimiento de tus ontologías (o mejor dicho los fic
 A continuación Github te redireccionará para solicitarte que autorices a OnToology para que tenga acceso a tu repositorio, tendrás que dar click en el botón "Authorize application"
 
 ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso2.png)
+
+Si tu repositorio ya contenía algún fichero .owl, .ttl o .rdf OnToology lanzará los procesos de generación de reportes de evaluación, documentación y diagramas y a continuación generará una "Pull request" para incorporar los recursos generados a tu repositorio.
+
+En otro caso OnToology no lanzará ningún proceso ya que solo se activa con la modificación de ficheros .owl, .ttl o .rdf.
+
+## Funcionamiento de OnToology
 
 En tu repositorio tendrás que actualizar tu ontología y hacer un "Push", tras lo cual OnToology generará una "Pull Request", al acceder a ella te encontrarás con "OnToology Update" a la que debes darle click para ingresar en su detalle
 
