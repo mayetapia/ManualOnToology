@@ -3,7 +3,7 @@
 
 1. [Primer paso: registrar un repositorio](#registrar-un-repositorio)
 2. [Configuración de repositorio](#)
-3. [Avanzado](#)
+3. [Administración del entorno de trabajo](#administración-del-entorno-de-trabajo)
 4. [Sugerencia de flujo de trabajo](#)
 
 ## Registrar un repositorio
