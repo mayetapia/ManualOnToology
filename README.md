@@ -8,9 +8,9 @@
 
 ## Registrar un repositorio
 
-Para utilizar la herramienta debes contar previamente con una cuenta en [Github](http://github.com) en la que necesitas un repositorio. Debes fijarte que en tu perfil de Github tienes escrito tu Nombre y que tu correo eléctronico sea de acceso público pues de no serlo OnToology no podrá acceder a tu cuenta.
+Para utilizar OnToology debes contar previamente con una cuenta de [Github](http://github.com) en la que posterioremente podrás crear repositorios en los que albergar tu(s) ontología(s). Debes fijarte que en tu perfil de Github tienes escrito tu Nombre y que tu correo eléctronico sea de **acceso público** pues de no serlo OnToology no podrá acceder a tu cuenta.
 
-Lo primero que tienes que hacer es ingresar en [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio, por ejemplo miusuario/mirepositorio, y presionar el botón "Watch this Repo" para empezar a visualizarlo dentro de la herramienta
+Para que OnToology haga un seguimiento de tus ontologías (o mejor dicho los ficheros .ttl, .owl and .rdf que haya en tu repositorio) debe introducir en [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio "usuario/nombreDeRepositorio" y presionar el botón "Watch this Repo" (véase figura a continuacin).
 
 ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png)
 
