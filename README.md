@@ -12,7 +12,7 @@ Para utilizar [OnToology](http://ontoology.linkeddata.es/) debes contar previame
 
 Para que OnToology haga un seguimiento de tus ontologías (o mejor dicho los ficheros .ttl, .owl and .rdf que haya en tu repositorio) debes introducir en [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio "usuario/nombreDeRepositorio" y presionar el botón "Watch this Repo" (véase figura a continuacin).
 
-[comment]: <> ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png)
+[//]: # ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png)
 
 <img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png" width="850">
 
