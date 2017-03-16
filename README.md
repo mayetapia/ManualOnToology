@@ -14,6 +14,8 @@ Para que OnToology haga un seguimiento de tus ontologías (o mejor dicho los fic
 
 ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png)
 
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png" width="48">
+
 
 A continuación Github te redireccionará para solicitarte que autorices a OnToology para que tenga acceso a tu repositorio, tendrás que dar click en el botón "Authorize application"
 
