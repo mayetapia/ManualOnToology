@@ -48,24 +48,30 @@ Detalle de la pull request:
 <img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4.png" width="700" align="center">
 
 
-Finalmente, si deseas incorporar los recursos generados por OnToology a tu repositorio, necesitas confirmar la acción para lo cual debes dar click en el botón **Confirm merge**. En caso contrario deberás descartar el pull request haciendo click en **close pull request**.
-![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4_1.png)
+Finalmente, si deseas incorporar los recursos generados por OnToology a tu repositorio, necesitas confirmar la acción para lo cual debes dar click en el botón **Confirm merge**. 
+
+[//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4_1.png)"
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4_1.png" width="700" align="center">
 
 
 Tras estos pasos tendrás en tu repositorio una carpeta llamada "OnToology" en la que se depositan todos los archivos generados por la herramienta.
 
 ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso5.png)
 
+La siguiente imagen muestra la estructura de carpetas creada por OnToology.
+
 
 ## Administración del entorno de trabajo
 
 Una vez que se ha enlazado el repositorio con OnToology puedes expandirlo al hacer click en el ícono de la izquierda
 
-![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/admin.png)
+[//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/admin.png)"
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/admin.png" width="700" align="center">
 
 A continuación podrás ver las ontologías que tengas en tu repositorio y varios íconos que te permitirán realizar diferentes acciones
 
-![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/admin1.png)
+[//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/admin1.png)"
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/admin1.png" width="700" align="center">
 
 Las acciones que puedes realizar con cada ícono son las siguientes:
 
