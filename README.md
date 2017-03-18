@@ -62,7 +62,7 @@ Tras estos pasos tendrás en tu repositorio una carpeta llamada "OnToology" en l
 
 La siguiente imagen muestra la estructura de carpetas creada por OnToology.
 
-<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/folders.jpg" width="700" align="center">
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/folders.png" width="700" align="center">
 
 ## Administración del entorno de trabajo
 
