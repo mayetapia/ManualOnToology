@@ -4,7 +4,7 @@
 1. [Primer paso: registrar un repositorio](#registrar-un-repositorio)
 2. [Funcionamiento de OnToology](#funcionamiento-de-ontoology)
 3. [Administración del entorno de trabajo](#administración-del-entorno-de-trabajo)
-4. [Sugerencia de flujo de trabajo](#)
+[//]: # "4. [Sugerencia de flujo de trabajo](#)"
 
 ## Registrar un repositorio
 
@@ -56,10 +56,12 @@ Finalmente, si deseas incorporar los recursos generados por OnToology a tu repos
 
 Tras estos pasos tendrás en tu repositorio una carpeta llamada "OnToology" en la que se depositan todos los archivos generados por la herramienta.
 
-![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso5.png)
+[//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso5.png)"
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4_1.png" width="700" align="center">
 
 La siguiente imagen muestra la estructura de carpetas creada por OnToology.
 
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/folders.jpg" width="700" align="center">
 
 ## Administración del entorno de trabajo
 
@@ -88,3 +90,4 @@ Las acciones que puedes realizar con cada ícono son las siguientes:
 La acción del botón "Update Configuration" permite actualizar en el repositorio de Github los cambios que se realizan en el entorno de OnToology, esto ocasiona que se genere una "Pull Request" que tendremos que administrar de la misma forma que se indicó previamente en la sección de Primeros Pasos.
 
 Finalmente el botón "Stop Watching" permite ocultar el repositorio de tal forma que no aparecerá en OnToology, cabe destacar que esta acción no cambia la configuraciones que se realizaron previamente, y que cuando se desee volver a visualizarlo bastará con colocar los datos de nuestra cuenta y el repositorio (miusario/mirepositorio) y dar click en el botón "Whatch this Repo".
+
