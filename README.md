@@ -28,15 +28,20 @@ En otro caso OnToology no lanzará ningún proceso ya que **solo se activa con l
 
 ## Funcionamiento de OnToology
 
-Como ya hemos comentado OnToology se activa cuando uno o más ficheros del repositorio que contengan ontologías son añadidos o modificados. Cuando OnToology detecte que un fichero de ontología ha sido añadido o modificado tras un **Push** al repositorio en GitHub, [los procesos configurados en OnToology serán ejecutados] (#administración-del-entorno-de-trabajo). Al finalizar, OnToology generará una **Pull request** al repositorio en cuestión para incorporar los recursos generados. Al acceder a la información del pull request en tu repositorio de GitHub (esta pull request no aparece en el interfaz de OnToology) encontrar un "OnToology Update" a la que podrs acceder para ver el detalle.
+Como ya hemos comentado OnToology se activa cuando uno o más ficheros del repositorio que contengan ontologías son añadidos o modificados. Cuando OnToology detecte que un fichero de ontología ha sido añadido o modificado tras un **Push** al repositorio en GitHub, [los procesos configurados en OnToology serán ejecutados](#administración-del-entorno-de-trabajo). 
+
+Al finalizar, OnToology generará una **Pull request** al repositorio en cuestión para incorporar los recursos generados. Esto es debido a que OnToology hace un **fork** del repositorio sobre el que se trabaja para generar los nuevos recursos. Al acceder a la información del pull request en tu repositorio de GitHub (esta pull request no aparece en el interfaz de OnToology) encontrarás un "OnToology Update" a la que podrás acceder para ver el detalle como en la siguiente secuencia de imágenes.
 
 [//]: # "En tu repositorio tendrás que actualizar tu ontología y hacer un "Push", tras lo cual OnToology generará una "Pull Request", al acceder a ella te encontrarás con "OnToology Update" a la que debes darle click para ingresar en su detalle"
 
-![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso3.png)
+[//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso3.png)"
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso3.png" width="700" align="center">
 
-Luego dar click en el botón "Merge Pull Request"
 
-![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4.png)
+[//]: # "Luego dar click en el botón "Merge Pull Request""
+
+[//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4.png)"
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4.png" width="700" align="center">
 
 
 Finalmente necesitas confirmar la acción para lo cual debes dar click en el botón "Confirm merge"
