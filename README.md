@@ -32,13 +32,13 @@ Como ya hemos comentado OnToology se activa cuando uno o más ficheros del repos
 
 Al finalizar, OnToology generará una **Pull request** al repositorio en cuestión para incorporar los recursos generados. Esto es debido a que OnToology hace un **fork** del repositorio sobre el que se trabaja para generar los nuevos recursos. Al acceder a la información del pull request en tu repositorio de GitHub (esta pull request no aparece en el interfaz de OnToology) encontrarás un "OnToology Update" a la que podrás acceder para ver el detalle como en la siguiente secuencia de imágenes.
 
-[//]: # "En tu repositorio tendrás que actualizar tu ontología y hacer un "Push", tras lo cual OnToology generará una "Pull Request", al acceder a ella te encontrarás con "OnToology Update" a la que debes darle click para ingresar en su detalle"
+[//]: # (En tu repositorio tendrás que actualizar tu ontología y hacer un "Push", tras lo cual OnToology generará una "Pull Request", al acceder a ella te encontrarás con "OnToology Update" a la que debes darle click para ingresar en su detalle)
 
 [//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso3.png)"
 <img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso3.png" width="700" align="center">
 
 
-[//]: # "Luego dar click en el botón "Merge Pull Request""
+[//]: # (Luego dar click en el botón "Merge Pull Request")
 
 [//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4.png)"
 <img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4.png" width="700" align="center">
