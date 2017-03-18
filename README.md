@@ -10,7 +10,7 @@
 
 Para utilizar [OnToology](http://ontoology.linkeddata.es/) debes contar previamente con una cuenta de [Github](http://github.com) en la que posterioremente podrás crear repositorios en los que albergar tu(s) ontología(s). Debes fijarte que en tu perfil de Github tienes escrito tu Nombre y que tu **correo eléctronico sea de acceso público** pues de no serlo OnToology no podrá acceder a tu cuenta.
 
-Para que OnToology haga un seguimiento de tus ontologías (o mejor dicho los ficheros .ttl, .owl and .rdf que haya en tu repositorio) debes introducir en [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio "usuario/nombreDeRepositorio" y presionar el botón "Watch this Repo" (véase figura a continuacin).
+Para que OnToology haga un seguimiento de tus ontologías (o mejor dicho los ficheros .ttl, .owl and .rdf que haya en tu repositorio) debes introducir en [OnToology](http://ontoology.linkeddata.es/) el nombre de tu repositorio "usuario/nombreDeRepositorio" y presionar el botón "Watch this Repo" (véase figura a continuación).
 
 [//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png)"
 <img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso1.png" width="800">
@@ -34,18 +34,21 @@ Al finalizar, OnToology generará una **Pull request** al repositorio en cuesti�
 
 [//]: # (En tu repositorio tendrás que actualizar tu ontología y hacer un "Push", tras lo cual OnToology generará una "Pull Request", al acceder a ella te encontrarás con "OnToology Update" a la que debes darle click para ingresar en su detalle)
 
+Lista de pull request de tu reposortio (vista en GitHub):
+
 [//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso3.png)"
 <img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso3.png" width="700" align="center">
 
 
 [//]: # (Luego dar click en el botón "Merge Pull Request")
 
+Detalle de la pull request:
+
 [//]: # "![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4.png)"
 <img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4.png" width="700" align="center">
 
 
-Finalmente necesitas confirmar la acción para lo cual debes dar click en el botón "Confirm merge"
-
+Finalmente, si deseas incorporar los recursos generados por OnToology a tu repositorio, necesitas confirmar la acción para lo cual debes dar click en el botón **Confirm merge**. En caso contrario deberás descartar el pull request haciendo click en **close pull request**.
 ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/paso4_1.png)
 
 
