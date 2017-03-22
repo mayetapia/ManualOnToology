@@ -85,7 +85,7 @@ Las acciones que puedes realizar con cada ícono son las siguientes:
 | ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/regenerate_all.png)   | Generar la documentación, diagramas y evaluación de tus ontologías   |
 | ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/renew_previsual.png)   | Reanudar la previsualiación   |
 | ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/publish.png)   | Publicar la ontología   |
-| ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/bundle_download.png)   | Descargar un paquete con la documentación, diagramas, evaluación y el .htaccess  |
+|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/bundle_download.png" width="20" align="center">  | Descargar un paquete con la documentación, diagramas, evaluación y el .htaccess  |
 
 
 La acción del botón "Update Configuration" permite actualizar en el repositorio de Github los cambios que se realizan en el entorno de OnToology, esto ocasiona que se genere una "Pull Request" que tendremos que administrar de la misma forma que se indicó previamente en la sección de Primeros Pasos.
