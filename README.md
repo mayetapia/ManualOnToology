@@ -62,7 +62,7 @@ Tras estos pasos tendrás en tu repositorio una carpeta llamada "OnToology" en l
 
 La siguiente imagen muestra la estructura de carpetas creada por OnToology.
 
-<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/folders.png" width="700" align="center">
+<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/folders.png" align="center">
 
 ## Administración del entorno de trabajo
 
@@ -80,12 +80,12 @@ Las acciones que puedes realizar con cada ícono son las siguientes:
 
 | Ícono | Acción |
 | ---------- | ---------- |
-| ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon1.png)   | Ir a tu repositorio en Github   |
-| ![](https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/icon2.png)   | Obtener la configuración de tus ontologías en este repositorio  |
-|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/regenerate_all.png" width="20" align="center"> | Generar la documentación, diagramas y evaluación de tus ontologías   |
-|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/renew_previsual.png" width="20" align="center">   | Reanudar la previsualiación   |
-|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/publish.png" width="20" align="center">   | Publicar la ontología   |
-|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/bundle_download.png" width="20" align="center">  | Descargar un paquete con la documentación, diagramas, evaluación y el .htaccess  |
+|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/github.png" width="35" align="center">  | Ir a tu repositorio en Github   |
+|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/update.png" width="35" align="center">  | Obtener la configuración de tus ontologías en este repositorio  |
+|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/regenerate_all.png" width="35" align="center"> | Generar la documentación, diagramas y evaluación de tus ontologías   |
+|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/renew_previsual.png" width="35" align="center">   | Reanudar la previsualiación   |
+|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/publish.png" width="35" align="center" >   | Publicar la ontología   |
+|<img src="https://github.com/paoespinozarias/ManualOnToology/blob/master/imagenes/bundle_download.png" width="35" >  | Descargar un paquete con la documentación, diagramas, evaluación y el .htaccess  |
 
 
 La acción del botón "Update Configuration" permite actualizar en el repositorio de Github los cambios que se realizan en el entorno de OnToology, esto ocasiona que se genere una "Pull Request" que tendremos que administrar de la misma forma que se indicó previamente en la sección de Primeros Pasos.
